@@ -1,0 +1,18 @@
+Attention! In the beginning of each program (Bash script file), after “#!/bin/bash” line, there should be comments with the author’s name and the the purpose of the script. Up to 3 points will be subtracted from your score for each part of the project if you don’t include this information.
+
+[30 points] Write a Bash shell script named info.sh. The output of this script must contain the following information:
+
+The name of your script;
+The name of current working directory;
+The name of UNIX machine;
+The name of login shell;
+Total number of parameters of the script;
+Current number of users on the system (could require a pipe)
+Current time.
+ 
+
+This script is very short and will probably be quick to do. The main purpose of this project is to get you comfortable with submission. Make sure to test it before submission (by making it executable and then running it with ./info.sh .
+
+ 
+
+To submit, you must transfer your file off of delmar and then attach it to the canvas assignment. One way to do this is with SFTP software like Filezilla. If you have problems with submission, DO NOT email it to me and DO NOT copy/paste it into the submission box. Contact me and we will figure it out so you are set for further projects.
